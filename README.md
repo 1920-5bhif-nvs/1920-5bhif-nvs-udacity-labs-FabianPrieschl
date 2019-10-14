@@ -16,3 +16,7 @@ The purpose of the first lesson was to create a Dice Roller program which contai
 * Efficiency -> lateinit
 * Explanation of gradle
 * Vector Drawables - support for older devices
+
+#### GUI
+
+![](images/DiceRoller_GUI.png)
