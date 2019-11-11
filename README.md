@@ -19,4 +19,4 @@ The purpose of the first lesson was to create a Dice Roller program which contai
 
 #### GUI
 
-![](images/DiceRoller_GUI.png)
+![](images/DiceRoller_GUI.PNG)
