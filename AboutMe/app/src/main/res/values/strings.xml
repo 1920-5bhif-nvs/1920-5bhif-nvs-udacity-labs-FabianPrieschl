@@ -2,4 +2,12 @@
     <string name="app_name">AboutMe</string>
     <string name="name">Fabian Prieschl</string>
     <string name="yellow_star">Yellow star</string>
+    <string name="bio">Hello my name is Fabian and this is some placeholder text:\n\n Lorem ipsum dolor sit amet,
+        consectetur adipiscing elit. Etiam porta purus in vehicula venenatis. Proin mattis aliquam ex ut luctus.
+        Maecenas dolor elit, mollis consequat efficitur eu, imperdiet non urna. Pellentesque sit amet tortor ipsum.
+        Duis non risus eu quam accumsan lacinia. Quisque dignissim risus a sollicitudin mollis. Duis pellentesque
+        euismod nisl facilisis feugiat. Integer vitae arcu sed urna feugiat convallis a eget lectus. Quisque id
+        ultricies magna. Proin faucibus dui ante, eget euismod ex dignissim ut. Curabitur et purus pretium,
+        sagittis ex et, sodales urna. Phasellus aliquam, justo vitae dictum mollis, felis risus vestibulum mauris,
+        in vehicula tortor neque ut lacus.</string>
 </resources>
