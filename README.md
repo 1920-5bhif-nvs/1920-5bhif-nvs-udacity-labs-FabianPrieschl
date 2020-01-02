@@ -4,5 +4,6 @@ This repository contains my progress in the Udacity Android course (https://clas
 
 - [Lesson 1: Build your First App](Lesson1)
 - [Lesson 2: Layout](Lesson2)
+- [Lesson 3: App Navigation](Lesson3)
 
-#### Current progress: Lesson 2 finished
+#### Current progress: Lesson 3 finished
